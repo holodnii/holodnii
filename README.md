@@ -15,14 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### self
-
-<!--
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holodnii&theme=graywhite)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=graywhite)
 
 # Certificates :
  - Yandex.Praktikum: [RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)/[EN](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)
-
--->
