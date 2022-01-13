@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holodnii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=graywhite&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holodnii&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=graywhite&hide=issues,contribs)
 
 # Certificates :
  - Yandex.Praktikum: [RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)/[ENG](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)
