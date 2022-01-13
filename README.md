@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=graywhite)
 
 # Certificates :
- - Yandex.Praktikum: [RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)/[EN](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)
+ - Yandex.Praktikum: [RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)/[ENG](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)
