@@ -11,4 +11,3 @@
 
 # Certificates/Сертификаты:
  - Yandex.Praktikum: [RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)/[ENG](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)
-
