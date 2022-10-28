@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T11:27:47.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6qghPHvGp5Zy4N3enRu9" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T06:28:54.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UbP0Nm60Dw92QV13q0Eu" version="20.5.1" type="github">
   <diagram id="ZgWrUhDNY7SDrV8JCNzW" name="Page-1">
-    <mxGraphModel dx="7912" dy="1853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7464" dy="1616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,25 +911,8 @@
             <mxPoint x="1003.1299999999992" y="258.0169999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohauPjBZUVszq_lS9pE9-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Object:emaiEmail&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;userId&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;participantId&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="534" y="50" width="290" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="ohauPjBZUVszq_lS9pE9-3" value="`" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.772;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;strokeColor=#FF3333;" parent="1" source="NTwUDxVlnUoW-F4fOf6s-1" target="NTwUDxVlnUoW-F4fOf6s-1" edge="1">
-          <mxGeometry x="0.1432" y="-20" width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="800" y="270" as="sourcePoint" />
-            <mxPoint x="900" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="180" />
-              <mxPoint x="758" y="170" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ohauPjBZUVszq_lS9pE9-6" value="" style="endArrow=none;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;" parent="1" target="ohauPjBZUVszq_lS9pE9-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="679" y="180" as="sourcePoint" />
-            <mxPoint x="810" y="180" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ohauPjBZUVszq_lS9pE9-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Object:emaiEmail&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;id&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;email1&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;email2&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="534" y="57" width="290" height="92" as="geometry" />
         </mxCell>
         <mxCell id="S_FU5HzE9liqWInWS8zJ-3" value="utils" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" parent="1" vertex="1">
           <mxGeometry x="155" y="-420" width="280" height="190" as="geometry" />
