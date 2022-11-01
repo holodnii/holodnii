@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T13:07:47.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Unh1_BHhXpON3oLorANh" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T06:16:23.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8zGqQ9qJnkHVupFyNww-" version="20.5.1" type="github">
   <diagram id="ZgWrUhDNY7SDrV8JCNzW" name="Page-1">
-    <mxGraphModel dx="11024" dy="3493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7167" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
         <mxCell id="YSYT53ccy33g7K8wF7SV-9" value="userController" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="62" width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="YSYT53ccy33g7K8wF7SV-10" value="registration(req, res, next)&#xa;login(req, res, next)&#xa;verify(req, res, next)&#xa;check(req, res, next)&#xa;!!addSession(req,res, next)&#xa;!!addTeam(req,res,next)&#xa;-addParticipant(req, res, next)&#xa;!removeParticipant(req, res, next)&#xa;-acceptParticipation(req, res, next)&#xa;-acceptParticipationAndRegister(req, res, next)&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YSYT53ccy33g7K8wF7SV-9" vertex="1">
+        <mxCell id="YSYT53ccy33g7K8wF7SV-10" value="registration(req, res, next)&#xa;login(req, res, next)&#xa;verify(req, res, next)&#xa;check(req, res, next)&#xa;!!addSession(req,res, next)&#xa;!!addTeam(req,res,next)&#xa;-addParticipant(req, res, next)&#xa;!removeParticipant(req, res, next)&#xa;acceptParticipation(req, res, next)&#xa;-acceptParticipationAndRegister(req, res, next)&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YSYT53ccy33g7K8wF7SV-9" vertex="1">
           <mxGeometry y="26" width="270" height="164" as="geometry" />
         </mxCell>
         <mxCell id="YSYT53ccy33g7K8wF7SV-17" value="teamController" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -455,7 +455,7 @@
             <mxPoint x="-878" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSYT53ccy33g7K8wF7SV-107" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;strokeColor=#000000;" parent="1" source="YSYT53ccy33g7K8wF7SV-109" edge="1" target="NTwUDxVlnUoW-F4fOf6s-37">
+        <mxCell id="YSYT53ccy33g7K8wF7SV-107" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;strokeColor=#000000;" parent="1" source="YSYT53ccy33g7K8wF7SV-109" target="NTwUDxVlnUoW-F4fOf6s-37" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="300" y="414" as="sourcePoint" />
             <mxPoint x="900" y="850" as="targetPoint" />
@@ -928,13 +928,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JOkQaStsHTr1weL6J-MJ-1" value="calendarFunctions.js" style="shape=umlFrame;whiteSpace=wrap;html=1;width=122;height=41;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="JOkQaStsHTr1weL6J-MJ-1" value="calendarFunctions.js" style="shape=umlFrame;whiteSpace=wrap;html=1;width=122;height=41;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="665" y="-467" width="252" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="JOkQaStsHTr1weL6J-MJ-2" value="dateDiffInDays" style="html=1;" vertex="1" parent="1">
+        <mxCell id="JOkQaStsHTr1weL6J-MJ-2" value="dateDiffInDays" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="684" y="-340" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JOkQaStsHTr1weL6J-MJ-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.197;exitY=0;exitDx=0;exitDy=0;entryX=0.002;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="YSYT53ccy33g7K8wF7SV-3" target="S_FU5HzE9liqWInWS8zJ-3">
+        <mxCell id="JOkQaStsHTr1weL6J-MJ-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.197;exitY=0;exitDx=0;exitDy=0;entryX=0.002;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="YSYT53ccy33g7K8wF7SV-3" target="S_FU5HzE9liqWInWS8zJ-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-179.9999999999991" y="171" as="sourcePoint" />
             <mxPoint x="20" y="170" as="targetPoint" />
