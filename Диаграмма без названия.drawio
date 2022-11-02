@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T12:59:27.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="IABnubzAIREccicUdNsf" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T15:04:18.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mo-4EvcHle5SL36v3aY2" version="20.5.1" type="github">
   <diagram id="ZgWrUhDNY7SDrV8JCNzW" name="Page-1">
-    <mxGraphModel dx="10289" dy="3106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7840" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -912,7 +912,7 @@
         <mxCell id="FOpQQl2jO4z2ApvRWcOw-4" value="function:generateJwtUserParticipant()" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="179.25" y="-340" width="206.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FOpQQl2jO4z2ApvRWcOw-9" value="jwtEncryption.js" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;fillColor=#CCCCCC;" parent="1" vertex="1">
+        <mxCell id="FOpQQl2jO4z2ApvRWcOw-9" value="mailSender.js" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="410" y="-467.5" width="242" height="217" as="geometry" />
         </mxCell>
         <mxCell id="FOpQQl2jO4z2ApvRWcOw-13" value="transporter::nodemailer.createTransport" style="html=1;" parent="1" vertex="1">
