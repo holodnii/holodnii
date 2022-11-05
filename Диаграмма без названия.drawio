@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T16:47:56.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="m1lNLLkDTST5E9ylr907" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T16:51:43.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PnkLb3YwuEpbZVEW7e19" version="20.5.1" type="github">
   <diagram id="ZgWrUhDNY7SDrV8JCNzW" name="Page-1">
-    <mxGraphModel dx="7994" dy="1895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7351" dy="1556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
         <mxCell id="YSYT53ccy33g7K8wF7SV-9" value="userController" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="62" width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="YSYT53ccy33g7K8wF7SV-10" value="registration(req, res, next)&#xa;login(req, res, next)&#xa;verify(req, res, next)&#xa;check(req, res, next)&#xa;!!addSession(req,res, next)&#xa;!!addTeam(req,res,next)&#xa;addParticipant(req, res, next)&#xa;!removeParticipant(req, res, next)&#xa;acceptParticipation(req, res, next)&#xa;acceptParticipationAndRegister(req, res, next)&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YSYT53ccy33g7K8wF7SV-9" vertex="1">
+        <mxCell id="YSYT53ccy33g7K8wF7SV-10" value="registration(req, res, next)&#xa;login(req, res, next)&#xa;verify(req, res, next)&#xa;check(req, res, next)&#xa;!!addSession(req,res, next)&#xa;!!addTeam(req,res,next)&#xa;addParticipant(req, res, next)&#xa;!removeParticipant(req, res, next)&#xa;acceptParticipation(req, res, next)&#xa;linkToRegistration(req, res, next)&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YSYT53ccy33g7K8wF7SV-9" vertex="1">
           <mxGeometry y="26" width="270" height="164" as="geometry" />
         </mxCell>
         <mxCell id="YSYT53ccy33g7K8wF7SV-17" value="teamController" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -734,7 +734,7 @@
         <mxCell id="AVYQJK8_xV01Rd4GWH9v-25" value="update(req, res, next)&#xa;getAll(req, res, next)&#xa;getOne(req, res, next)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="1092" width="270" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="AVYQJK8_xV01Rd4GWH9v-26" value="!create(req, res, next)&#xa;update(req, res, next)&#xa;!delete(req, res, next)&#xa;getAll(req, res, next)&#xa;getOne(req, res, next)&#xa;!addUser(req, res, next)&#xa;!removeUser(req, res, next)&#xa;!addSession(req, res, next)&#xa;!removeSession(req, res, next)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+        <mxCell id="AVYQJK8_xV01Rd4GWH9v-26" value="create(req, res, next)&#xa;update(req, res, next)&#xa;!delete(req, res, next)&#xa;getAll(req, res, next)&#xa;getOne(req, res, next)&#xa;!addUser(req, res, next)&#xa;!removeUser(req, res, next)&#xa;!addSession(req, res, next)&#xa;!removeSession(req, res, next)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="10" y="910" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AVYQJK8_xV01Rd4GWH9v-32" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;strokeColor=#000000;fillColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="T7n17aNO4eE7x2ttWyVh-49" edge="1">
