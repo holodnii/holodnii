@@ -34,7 +34,7 @@
 
 
 ### Some Badges
+![My HackTheBox Profile Badge](https://www.hackthebox.eu/badge/image/1355405)
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/holodnii/badges/small)
 <br />
-![My Codewarrior Profile Badge](https://www.hackthebox.eu/badge/image/1355405)
 
