@@ -32,7 +32,7 @@
 <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> 
 <img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
 <br />
-
+<br />
 
 ### Some Badges
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/holodnii/badges/micro)
