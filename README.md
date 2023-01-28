@@ -3,6 +3,8 @@
 -->
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/holodnii/badges/small)
+![My Codewarrior Profile Badge](https://www.hackthebox.eu/badge/image/1355405)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=graywhite&hide=issues,contribs)
 
@@ -30,3 +32,7 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> 
 <img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
+
+
+
+{{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
