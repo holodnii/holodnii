@@ -1,8 +1,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=graywhite&hide=issues,contribs)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=gotham&hide=issues,contribs)
 
 ## Resume
  - January 2023: [ENG](https://github.com/holodnii/holodnii/blob/main/resume/Maxim_Kholodilin_-_Backend_Developer.pdf)/[RUS](https://github.com/holodnii/holodnii/blob/main/resume/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D0%B8%D0%BD_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
