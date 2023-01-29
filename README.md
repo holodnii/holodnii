@@ -29,7 +29,7 @@
           
           
 ### Some Badges
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=codeSTACKr&hide=issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=slateorange&hide=issues,contribs)
 <br />
 ![My HackTheBox Profile Badge](https://www.hackthebox.eu/badge/image/1355405)
 <br />
