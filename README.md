@@ -29,8 +29,6 @@
           
           
 ### Some Badges
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=holodnii&show_icons=true&theme=slateorange&hide=issues,contribs)
-<br />
 ![My HackTheBox Profile Badge](https://www.hackthebox.eu/badge/image/1355405)
 <br />
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/holodnii/badges/micro)
