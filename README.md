@@ -29,6 +29,6 @@
           
           
 ### Some Badges
-![My HackTheBox Profile Badge](https://www.hackthebox.eu/badge/image/1355405)
-<br />
+<!-- ![My HackTheBox Profile Badge](https://www.hackthebox.eu/badge/image/1355405) -->
+<!-- <br /> -->
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/holodnii/badges/micro)
