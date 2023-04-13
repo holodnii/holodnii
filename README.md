@@ -8,6 +8,7 @@
 ## Certificates
  - Practicum: [ENG](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)/[RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)
  - ICAgile Certified Professional: [ENG](https://github.com/holodnii/holodnii/blob/main/certificates/ICP-Certification.pdf)/[RUS](https://github.com/holodnii/holodnii/blob/main/certificates/product_lab_agile.pdf)
+ - [ENG](https://github.com/holodnii/holodnii/blob/main/certificates/Coursera%20TCZVSK5HPP4X%20Eng.pdf)/[RUS](https://github.com/holodnii/holodnii/blob/main/certificates/Coursera%20TCZVSK5HPP4X%20Rus.pdf)
 
 ### Languages and Tools
 <img align="left" alt="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
