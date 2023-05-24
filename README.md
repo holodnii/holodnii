@@ -2,7 +2,7 @@
 
 
 ## CV
- - January 2023: [ENG](https://github.com/holodnii/holodnii/blob/main/certificates/Maxim_Kholodilin_-_Backend_Developer.pdf)
+ - May 2023: [ENG](https://github.com/holodnii/holodnii/blob/main/certificates/Maxim_Kholodilin_-_Backend_Developer.pdf)
 
 ## Certificates
  - Practicum: [ENG](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.pdf)/[RUS](https://github.com/holodnii/holodnii/blob/main/certificates/20212CPP00045.RU.pdf)
